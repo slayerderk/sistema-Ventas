@@ -1,0 +1,12 @@
+extensiones para el editor de codigos:
+=====================================
+Vue TypeScript Snippets
+Vue 2 Snippets (hollowtree)
+
+Programas externos:
+===================
+descargar Node js. version LTS (para q funcion NPM RUN)
+* despues de instalar en el cmd escribir: npm install
+ver video Udemy Seccion 5 : N° 19
+===
+
