@@ -9,4 +9,5 @@ descargar Node js. version LTS (para q funcion NPM RUN)
 * despues de instalar en el cmd escribir: npm install
 ver video Udemy Seccion 5 : N° 19
 ===
+*en el terminal escribir: composer require barryvdh/laravel-dompdf
 
