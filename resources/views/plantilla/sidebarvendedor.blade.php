@@ -11,10 +11,10 @@
                         <a class="nav-link nav-dropdown-toggle" href="#"><i class="icon-basket"></i> Ventas</a>
                         <ul class="nav-dropdown-items">
                             <li @click="menu=5" class="nav-item">
-                                <a class="nav-link" href="#"><i class="fa fa-circle-o"></i> Ventas</a>
+                                <a class="nav-link" href="#"> Ventas</a>
                             </li>
                             <li @click="menu=6" class="nav-item">
-                                <a class="nav-link" href="#"><i class="fa fa-circle-o"></i> Clientes</a>
+                                <a class="nav-link" href="#"> Clientes</a>
                             </li>
                         </ul>
                     </li>
@@ -22,7 +22,7 @@
                         <a class="nav-link nav-dropdown-toggle" href="#"><i class="fa fa-bar-chart"></i> Reportes</a>
                         <ul class="nav-dropdown-items">
                             <li @click="menu=10" class="nav-item">
-                                <a class="nav-link" href="#"><i class="fa fa-circle-o"></i> Reporte Ventas</a>
+                                <a class="nav-link" href="#"> Reporte Ventas</a>
                             </li>
                         </ul>
                     </li>

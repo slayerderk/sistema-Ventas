@@ -11,10 +11,10 @@
                         <a class="nav-link nav-dropdown-toggle" href="#"><i class="fa fa-cubes"></i> Almacén</a>
                         <ul class="nav-dropdown-items">
                             <li @click="menu=2" class="nav-item">
-                                <a class="nav-link" href="#"><i class="fa fa-circle-o"></i> Artículos</a>
+                                <a class="nav-link" href="#"> Artículos</a>
                             </li>
                             <li @click="menu=1" class="nav-item">
-                                <a class="nav-link" href="#"><i class="fa fa-circle-o"></i> Categorías</a>
+                                <a class="nav-link" href="#"> Categorías</a>
                             </li>
                             
                         </ul>
@@ -23,10 +23,10 @@
                         <a class="nav-link nav-dropdown-toggle" href="#"><i class="fa fa-truck"></i> Compras</a>
                         <ul class="nav-dropdown-items">
                             <li @click="menu=3" class="nav-item">
-                                <a class="nav-link" href="#"><i class="fa fa-circle-o"></i> Ingresos</a>
+                                <a class="nav-link" href="#"> Ingresos</a>
                             </li>
                             <li @click="menu=4" class="nav-item">
-                                <a class="nav-link" href="#"><i class="fa fa-circle-o"></i> Proveedores</a>
+                                <a class="nav-link" href="#"> Proveedores</a>
                             </li>
                         </ul>
                     </li>
@@ -34,7 +34,7 @@
                         <a class="nav-link nav-dropdown-toggle" href="#"><i class="fa fa-bar-chart"></i> Reportes</a>
                         <ul class="nav-dropdown-items">
                             <li @click="menu=9" class="nav-item">
-                                <a class="nav-link" href="#"><i class="fa fa-circle-o"></i> Reporte Ingresos</a>
+                                <a class="nav-link" href="#"> Reporte Ingresos</a>
                             </li>
                         </ul>
                     </li>
